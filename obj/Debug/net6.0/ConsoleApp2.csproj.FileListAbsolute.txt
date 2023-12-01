@@ -1,0 +1,28 @@
+C:\Users\ape0802\source\repos\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+C:\Users\ape0802\source\repos\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\Users\ape0802\source\repos\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\Users\ape0802\source\repos\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+C:\Users\ape0802\source\repos\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\ape0802\source\repos\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ape0802\source\repos\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\ape0802\source\repos\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\ape0802\source\repos\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ape0802\source\repos\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+C:\Users\ape0802\source\repos\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\Users\ape0802\source\repos\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\Users\ape0802\source\repos\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\ape0802\source\repos\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+C:\GITHUB GREJS\bin\Debug\net6.0\ConsoleApp2.exe
+C:\GITHUB GREJS\bin\Debug\net6.0\ConsoleApp2.deps.json
+C:\GITHUB GREJS\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+C:\GITHUB GREJS\bin\Debug\net6.0\ConsoleApp2.dll
+C:\GITHUB GREJS\bin\Debug\net6.0\ConsoleApp2.pdb
+C:\GITHUB GREJS\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB GREJS\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\GITHUB GREJS\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+C:\GITHUB GREJS\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\GITHUB GREJS\obj\Debug\net6.0\ConsoleApp2.dll
+C:\GITHUB GREJS\obj\Debug\net6.0\refint\ConsoleApp2.dll
+C:\GITHUB GREJS\obj\Debug\net6.0\ConsoleApp2.pdb
+C:\GITHUB GREJS\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+C:\GITHUB GREJS\obj\Debug\net6.0\ref\ConsoleApp2.dll
